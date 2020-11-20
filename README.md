@@ -8,6 +8,7 @@ Basic prototype that leverages the python mysql connector to do the following:
 # How does one run it ?
 
 Enter the root username and password in db.conf. Then run the following.
+
 `python3 event_system_pipeline.py`
 
 Note: 
