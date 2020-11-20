@@ -122,6 +122,6 @@ def run_it(configfile="db.conf",csvfile="third_party_sales.csv",section="mysql",
 
 
 if __name__ == '__main__':
-    #configfile = "C:\\vjn\\vjnspace\\springboard\\sandbox\\miniprojects\\event_ticket_system_pipeline\\db.conf"
-    #csvfile = "C:\\\\vjn\\\\vjnspace\\\\springboard\\\\sandbox\\\\miniprojects\\\\event_ticket_system_pipeline\\\\third_party_sales.csv"
+    #configfile = "<Path>\\db.conf"
+    #csvfile = "<Path>\\\\third_party_sales.csv"
     run_it()
